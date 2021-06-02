@@ -10,3 +10,6 @@ ls
 mv Risa.jpg Vulcan.jpg StarTrek/
 mv Taris.png Coruscant.jpg Tatooine.jpg StarWars/
 mv Neptune.jpg Lune.jpg Terre.jpg Mercure.jpg  Real/
+mv Neptune.jpg Lune.jpg Terre.jpg Mercure.jpg  Real/
+mv Mercure.jpg Venus.jpg Terre.jpg mars.jpeg Lune.jpg Telluriques/
+mv Jupiter.jpg saturn.png Uranus.jpg Neptune.jpg Gazeuzes/
