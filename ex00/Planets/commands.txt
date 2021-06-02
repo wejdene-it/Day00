@@ -7,3 +7,6 @@ ls
 cd Real
 mkdir Telluriques Gazeuzes
 ls
+mv Risa.jpg Vulcan.jpg StarTrek/
+mv Taris.png Coruscant.jpg Tatooine.jpg StarWars/
+mv Neptune.jpg Lune.jpg Terre.jpg Mercure.jpg  Real/
