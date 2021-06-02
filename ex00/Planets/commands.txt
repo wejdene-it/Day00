@@ -1,0 +1,9 @@
+cd Day00
+cd ex00
+ls
+cd Planets
+mkdir Real StarWars StarTrek
+ls
+cd Real
+mkdir Telluriques Gazeuzes
+ls
